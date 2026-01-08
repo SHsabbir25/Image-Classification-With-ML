@@ -129,6 +129,6 @@ Geospatial libraries like `GDAL` and `Rasterio` can be complex to install due to
 ├── Reproject/            # Harmonized EPSG:4326 Data
 ├── Training_CSV/         # Extracted Spectral Signatures
 ├── Results/              # Confusion Matrices & Accuracy Logs
-└── lulc_rf_model_2020.py # Main processing script
+└── Code                  # Main processing script
 
 
